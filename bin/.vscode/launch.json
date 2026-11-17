@@ -1,0 +1,41 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Q1 - MyJButton",
+      "request": "launch",
+      "mainClass": "MyJButton"
+    },
+    {
+      "type": "java",
+      "name": "Q2 - MyJTextField",
+      "request": "launch",
+      "mainClass": "MyJTextField"
+    },
+    {
+      "type": "java",
+      "name": "Q3 - MyJCheckBox",
+      "request": "launch",
+      "mainClass": "MyJCheckBox"
+    },
+    {
+      "type": "java",
+      "name": "Q4a - MyJRadioButton",
+      "request": "launch",
+      "mainClass": "MyJRadioButton"
+    },
+    {
+      "type": "java",
+      "name": "Q5 - SimpleCounter",
+      "request": "launch",
+      "mainClass": "SimpleCounter"
+    },
+    {
+      "type": "java",
+      "name": "Q6 - SimpleCalculator",
+      "request": "launch",
+      "mainClass": "SimpleCalculator"
+    }
+  ]
+}
